@@ -1,0 +1,97 @@
+
+
+<html>
+<head>
+   <style>
+	
+	h1
+	{
+	font-size:38px;
+	font-weight:bold;
+	font-family:verdana;
+	}
+
+	ul
+	{
+	float: right;
+	}
+	
+	ul li 
+	{
+	display:inline-block;
+	padding:0px 50px 0px 50px;
+	}
+
+	ul li a
+	{
+	color:white;
+	}
+	
+	body{
+	background-image:url('new.jpg');
+	background-repeat:no repeat;
+	background-attachment: fixed;
+	background-size:100% 100%;
+	}
+
+
+	.header
+	{
+	background-color:black;
+	position:fixed;
+	left:0;
+	top:0;
+	width:100%;
+	}
+
+	.footer
+	{
+	background-color:black;
+	position:fixed;
+	left:0;
+	bottom:0;
+	width:100%;
+	}
+
+	p
+	{
+	font-size:20px;
+	font-style:italic;
+	}
+	
+	hr
+	{
+	height:5px;
+	background-color:black;
+	}
+	
+   </style>
+</head>
+	
+<body>
+	<br>
+	<br>
+	<h1>About</h1>
+	<hr>
+	<br>
+	<p>Student at Vellore Institute of Technology</p>
+	<p>Core Committee Member, Robovitics</p>
+
+	<div class="header">
+	<ul>
+	<li><a href="C://users//hp//desktop//Portfolio.htm">Home</a></li>
+	<li><a href="C://users//hp//desktop//About.htm">About</a></li>
+	<li><a href="C://users//hp//desktop//Education.htm">Education</a></li>
+	<li><a href="#">Achievements</a></li>
+	</ul>
+	</div>
+
+	<div class = "footer">
+	<ul>
+	<li><a href="#">Contact</a></li>
+	</ul>
+	</div>
+
+	</div>
+</body>
+</html> 
